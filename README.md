@@ -1,7 +1,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11906398)
 # Práctica Editors
 
-Autor: Juan Salvador Magariños Alba - alu0101352145
+Autor: Laura Schubert - alu0101688831
 
 ## Ítems de la rúbrica conseguidos
 
@@ -14,8 +14,6 @@ Autor: Juan Salvador Magariños Alba - alu0101352145
   * Si introducimos la dirección de la imagen anterior, nos lleva a GitPod, presentando un entorno muy similar al de VSCode. En este caso, aparece vacío porque el repositorio está vacío en el momento de redactar este apartado.
 
   * El informe de cómo utilizar GitPod aparece en el apartado final de este README.md.
-
-  ![interfaz_gitpod](doc/Instalado_gitpod_2.png)
 
 * Instalado botón gitpod en su browser
 
@@ -41,8 +39,6 @@ Autor: Juan Salvador Magariños Alba - alu0101352145
 
   * He actualizado el plan a la versión para estudiantes, que incluye 100 horas de uso de GitPod.
 
-  ![plan_estudiante](doc/plan_estudiante.png)
-
 * Instalado SSH plugin para VSCode y funciona con máquina del iaas
 
   * Se ha instalado el plugin Remote-SSH.
@@ -64,8 +60,6 @@ Autor: Juan Salvador Magariños Alba - alu0101352145
 * Se puede utilizar GitPod mediante las herramientas instaladas durante la realización de la práctica. Las diferentes posibilidades son:
 
   * Botón del navegador: después de abrir un repositorio, es posible pulsar el botón instalado gracias a la extensión de Chrome para abrir una pestaña del navegador que presenta una interfaz similar a VSCode.
-
-  ![boton_navegador_tutorial](doc/boton_navegador_tutorial.png)
 
   * VSCode: tras abrir GitPod con el botón del navegador, se puede clicar en "Open in VSCode" para abrir una ventana de VSCode en la que se puede editar el contenido del repositorio. Además, los cambios hechos en la pestaña del navegador se reflejan en la ventana de VSCode.
 
